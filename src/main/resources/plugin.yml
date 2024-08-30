@@ -1,0 +1,8 @@
+name: Essences
+version: '1.0-SNAPSHOT'
+main: me.Paabl0.essences.Essences
+api-version: '1.21'
+authors: [ Paabl0 ]
+depend: [TypicalPaabl0Plugin]
+description:
+  Essence-addon to the core: TypicalPaabl0Plugin
